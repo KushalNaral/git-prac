@@ -1,2 +1,6 @@
 test 1
 branch A -> B creation commit
+Added A - branch commit
+branch A -> B creation commit
+branch master -> D 
+branch D -> E
